@@ -1,6 +1,6 @@
 {
-  "name": "cicdtest3",
-  "homepage": "https://cicdtest3.github.io/cicdtest3",
+  "name": "cicdtest",
+  "homepage": "https://cicdtest.github.io/cicdtest3",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
